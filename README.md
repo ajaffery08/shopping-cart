@@ -1,5 +1,6 @@
 # shopping-cart
-Shopping Cart project for Intro to Python class.
+Shopping Cart project for Intro to Python class. To download the application, clone the GitHub repository at:
+https://github.com/ajaffery08/shopping-cart.git
 
 ## Setup
 
